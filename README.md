@@ -1,1 +1,1 @@
-# curso-openshiftpublic
+# openshift-hola
